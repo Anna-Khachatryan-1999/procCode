@@ -1,0 +1,23 @@
+tivI -> int
+tivD -> double
+sim -> char -> <>
+bul -> bool
+ete -> if
+cikl -> while
+mutq -> cin
+elq -> cout
+
+///// syntax ////
+type variable = any thing
+type variable
+mutq <- variable
+elq -> any thing, [string], <char>
+ete (condition) ->
+    body
+<-
+cikl (condition) ->
+    body
+<-
+Brackets should be used when assigning actions
+defined actions are: +, -, *, /,%
+My language supports .ml files
